@@ -1,0 +1,106 @@
+h1 {
+    color: #303030;
+}
+
+body {
+    font-size: 125%;
+    padding: 25px 100px 75px 100px;
+}
+#table {
+	border-collapse: separate;
+	border-spacing: 15px;
+}
+#header{
+	height: 60px;
+	background-color: #fffff4;
+  padding:10px;
+}
+#menu{
+ 	background-color: #d8f0f3
+;
+	 float: left;
+ 	width: 25%;
+}
+#pera{
+	background-color: #f9f9f9;
+	float: right;
+	width: 75%;
+
+}
+#footer{
+	clear:both;
+	width: 100%;
+	text-align: center;
+ background-color: #fffff4;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+#tab{
+    margin-left: 1em;
+
+}
+img {
+  border-radius: 50%;
+  border-color: white; 
+}
+#vertical-menu {
+    width: 100%;
+}
+
+#vertical-menu a {
+    background-color: #d8f0f3;
+    color: black;
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+}
+
+#vertical-menu a:hover {
+    background-color: #f9f9f9;
+}
+
+#vertical-menu a.active {
+    background-color: #4CAF50;
+    color: white;
+}
